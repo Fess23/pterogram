@@ -1,0 +1,17 @@
+{
+  "name": "pterodactyl",
+  "version": "1.0.0",
+  "description": "The telegram integration into pterodactyl ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodeactyl": "^3.3.0",
+    "redis": "^4.6.13",
+    "telegraf": "^4.16.3"
+  },
+  "type": "module"
+}

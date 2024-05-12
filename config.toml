@@ -1,0 +1,10 @@
+[telegram]
+token="" # Use https://t.me/BotFather to create bot and get bot_token. 
+access=[] # Put here your chat id to get access. Example: "access=[0000000000]"
+
+[pterodactyl]
+hostingUrl="" # Put here your URL addres to panel, !ONLY HTTPS PROTOCOl.
+clientAPIKey="" # Put here your client API key. It's can be generated in account setting > API Credentials > Create API key.
+
+[script]
+ 
