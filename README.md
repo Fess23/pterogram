@@ -12,3 +12,4 @@ Pterogram is integration telegram with pterodactyl using telegram bot.
 4. Run `app.js` file in any way you like. For example `node app.js`
 
 ## This is beta-version
+![изображение](https://github.com/Fess23/pterogram/assets/93217484/c8541051-672a-4854-ba63-8a004f6b8bc7)
